@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acanbolat94
 - 👀 I’m interested in .net development and system center
-- 🌱 I’m currently learning .net development 
+- 🌱 I’m currently learning c# .net development 
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 You can reach me by e-mail
 
