@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @acanbolat94
 - 👀 I’m interested in .net development and system center
-- 🌱 I’m currently learning c# .net development 
+- 🌱 I'm middle level .net backend developer
 - 💞️ I’m looking to collaborate on full stack development
-- 📫 You can reach me by e-mail
+- 📫 You can reach me by e-mail or by my phone number
 
 <!---
 acanbolat94/acanbolat94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
